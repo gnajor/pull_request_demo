@@ -1,0 +1,28 @@
+body {
+    background: beige;
+    font-family: monospace;
+}
+
+main {
+    background: white;
+    max-width: 800px;
+    margin: 30px auto 0 auto;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+p.info {
+    text-align: center;
+    color: green;
+    font-style: italic;
+}
+
+#dogs {
+    border: 1px solid gray;
+    background: gray;
+    margin-bottom: 30px;
+}
